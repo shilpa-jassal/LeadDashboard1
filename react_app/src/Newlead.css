@@ -1,0 +1,128 @@
+.description{
+    width: 400px;
+    height: 165px;
+}
+.title{
+    position: absolute;
+    width: 400px;
+}
+.Estimatedbudget{
+    position: absolute;
+    width: 250px;
+    margin-left: 5px;
+}
+.referred_by{
+    position: absolute;
+    width: 250px;
+    margin-left: 70px;
+}
+.attachment{
+    position: absolute;
+    margin-left: 75px;
+}
+.source{
+    position: absolute;
+    width: 300px;
+    margin-left: 35px;
+    
+} 
+.URL{
+width: 300px;
+}
+.domain{
+    width: 300px;
+}
+.Keywords{
+    width: 300px;
+}
+.technology{
+    position: absolute;
+    width: 300px;
+    margin-left: -5px;
+}
+.assign_to{
+    width: 222px;
+    
+}
+.assignee{
+    margin-left: 25px;
+}
+.prospectdetails{
+    border:1px solid #000;
+    width: 150px;
+    height: 30px;
+    padding-left: 10px;
+}
+.Existing{
+    padding-left: 0px;
+}
+.prospectus{
+    border:1px solid #000;
+    width: 865px;
+    height: max-content;
+    margin-left: 110px;
+    margin-top: -8px;
+}
+.plussign{
+    margin-left: -3px;
+    margin-top: -3px;
+}
+.full_name{
+    margin-left: 30px;
+}
+.Sreetaddress{
+    margin-left: 40px;
+}
+.add-icon {
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    border:1px solid black;
+    margin-left: 10px;
+    padding: 2px;
+}
+.email{
+    margin-left: 62px;
+}
+.city1{
+    margin-left: 117px;
+}
+.city{
+    margin-left: 35px;
+}
+.company{
+    margin-left: 33px;
+}
+.state{
+    margin-left: 110px;
+}
+.designation{
+    margin-left: 16px;
+}
+.country{
+    margin-left: 94px;
+}
+.Skypeid{
+    margin-left: 35px;
+}
+.mobileno{
+    margin-left: 105px;
+    width: 170px;
+}
+.emailplus{
+    margin-left: 102px;
+}
+.phoneplus{
+    margin-left: 151px;
+    width: 170px;
+}
+.errorMsgtitle{
+    margin-top: 3px;
+}
+.errorMsgsource{
+    margin-top: 17px;
+}
+.errorMsgtechnology{
+    margin-top: 42px;
+    margin-left: -10px;
+}

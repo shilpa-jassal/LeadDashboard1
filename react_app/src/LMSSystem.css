@@ -1,0 +1,46 @@
+.new{
+    border: 1px solid black;
+    width: 280px;
+    height: 500px;
+    margin-top: -400px;
+     
+    
+}
+/* .http{
+    margin-left: 10px;
+} */
+ 
+.nw{
+    border: 1px solid black;
+    margin-right: 48px;
+}
+/* .tx{
+    position: absolute;
+    margin-top: 10px;
+} */
+.prospect{
+    border: 1px solid black;
+    width: 150px;
+}
+.details{
+    border: 1px solid black;
+    height: 170px;
+    width: 550px;
+}
+.live{
+    margin-top: 120px;
+}
+.projectscope{
+    margin-left: -200px;
+    border: 0px solid black;
+    height: 40px;
+    width: 295px;
+}
+.descriptions{
+    border: 1px solid black;
+    height: 100px;
+    width: 550px;
+}
+.urlss{
+    margin-right: 175px;
+}

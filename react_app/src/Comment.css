@@ -1,0 +1,20 @@
+.ne{
+    border: 1px solid black;
+    width: 500px;
+    height: 100px;
+}
+.addtocalender{
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.sub{
+    margin-left: -400px;
+}
+.reject{
+    width: 770px;
+    height: 200px;
+    margin-left: 10px
+}
+.rejectsubmit{
+    margin-left: 690px
+}

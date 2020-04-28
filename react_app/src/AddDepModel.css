@@ -1,0 +1,13 @@
+.ACC{
+    margin-left: 80px;
+}
+.REJ{
+    margin-left: 150px;
+}
+.pit{
+    margin-left: 150px;
+}
+ 
+.modal-backdrop.show {
+    opacity: 0.7;
+}
